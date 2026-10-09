@@ -1,0 +1,47 @@
+# Environment variables & secrets
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+new_/.env
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Uploaded and temporary files
+uploads/
+temp/
+tmp/
+scratch/
+new_/scratch/
+*.bak
+*.tmp
+*.log
+
+# Machine learning model artifacts & cache
+catboost_info/
+*.pkl
+*.joblib
+
+# Operating System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
