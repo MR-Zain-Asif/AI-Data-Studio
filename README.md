@@ -2,6 +2,8 @@
 
 # ⚡ AI Data Cleaning Studio & Autonomous Agent 🚀
 
+here the link = https://datastudio-ai-production.up.railway.app/
+
 ### *The Next-Generation AI-Powered Data Analysis, Automated Cleaning, Auto-ML & Autonomous Agent Platform*
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
