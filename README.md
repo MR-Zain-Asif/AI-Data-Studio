@@ -200,17 +200,6 @@ Open your browser and navigate to:
 
 ---
 
-## ☁️ Deployment Guide
-
-### Deploying to Render.com (Recommended)
-1. Push this repository to your GitHub account.
-2. Sign in to [Render.com](https://render.com) and click **+ New &rarr; Web Service**.
-3. Select your `AI-Data-Studio` repository.
-4. Render will automatically read `render.yaml`.
-5. Add your `GROQ_API_KEY` under **Environment Variables** and click **Deploy**!
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
